@@ -19,5 +19,10 @@ The UI consists of Bootstrap for the look and feel, responsible mobile. Boostrap
 Open index.html and that's it! No dependancies, no packages, kept it simple with Javascript and Ajax.
 
 
+# View Demo: 
+
+http://jonesfrontendwebdev.com/Google-Books-Api-Es6%20pure%20Javascript/index.html
+
+
 
 
