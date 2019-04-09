@@ -16,8 +16,7 @@ The UI consists of Bootstrap for the look and feel, responsible mobile. Boostrap
 
 # Instalation Instructions:
 
-## Open index.html and that's it! No dependancies, no packages, kept it simple with Javascript and Ajax.
-
+Open index.html and that's it! No dependancies, no packages, kept it simple with Javascript and Ajax.
 
 
 
