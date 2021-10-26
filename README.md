@@ -25,7 +25,7 @@ Open index.html and that's it! No dependancies, no packages, kept it simple with
 
 # View Demo: 
 
-http://jonesfrontendwebdev.com/Google-Books-Api-Es6%20pure%20Javascript/index.html
+http://codejones.tech/Google-Books-Api-Es6%20pure%20Javascript/index.html
 
 
 
